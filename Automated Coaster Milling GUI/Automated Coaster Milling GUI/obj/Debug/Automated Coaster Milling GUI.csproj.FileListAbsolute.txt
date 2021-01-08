@@ -1,0 +1,20 @@
+C:\Users\Seth Ramsey\AppData\Local\Temporary Projects\Automated Coaster Milling GUI\bin\Debug\Automated Coaster Milling GUI.exe.config
+C:\Users\Seth Ramsey\AppData\Local\Temporary Projects\Automated Coaster Milling GUI\bin\Debug\Automated Coaster Milling GUI.exe
+C:\Users\Seth Ramsey\AppData\Local\Temporary Projects\Automated Coaster Milling GUI\bin\Debug\Automated Coaster Milling GUI.pdb
+C:\Users\Seth Ramsey\AppData\Local\Temporary Projects\Automated Coaster Milling GUI\obj\Debug\Automated Coaster Milling GUI.csprojResolveAssemblyReference.cache
+C:\Users\Seth Ramsey\AppData\Local\Temporary Projects\Automated Coaster Milling GUI\obj\Debug\Automated_Coaster_Milling_GUI.Form1.resources
+C:\Users\Seth Ramsey\AppData\Local\Temporary Projects\Automated Coaster Milling GUI\obj\Debug\Automated_Coaster_Milling_GUI.Properties.Resources.resources
+C:\Users\Seth Ramsey\AppData\Local\Temporary Projects\Automated Coaster Milling GUI\obj\Debug\Automated Coaster Milling GUI.csproj.GenerateResource.Cache
+C:\Users\Seth Ramsey\AppData\Local\Temporary Projects\Automated Coaster Milling GUI\obj\Debug\Automated Coaster Milling GUI.csproj.CoreCompileInputs.cache
+C:\Users\Seth Ramsey\AppData\Local\Temporary Projects\Automated Coaster Milling GUI\obj\Debug\Automated Coaster Milling GUI.exe
+C:\Users\Seth Ramsey\AppData\Local\Temporary Projects\Automated Coaster Milling GUI\obj\Debug\Automated Coaster Milling GUI.pdb
+H:\Automated Coaster Milling\GUI\Automated Coaster Milling GUI\Automated Coaster Milling GUI\obj\Debug\Automated_Coaster_Milling_GUI.Form1.resources
+H:\Automated Coaster Milling\GUI\Automated Coaster Milling GUI\Automated Coaster Milling GUI\obj\Debug\Automated_Coaster_Milling_GUI.Properties.Resources.resources
+H:\Automated Coaster Milling\GUI\Automated Coaster Milling GUI\Automated Coaster Milling GUI\obj\Debug\Automated Coaster Milling GUI.csproj.GenerateResource.Cache
+H:\Automated Coaster Milling\GUI\Automated Coaster Milling GUI\Automated Coaster Milling GUI\obj\Debug\Automated Coaster Milling GUI.csproj.CoreCompileInputs.cache
+H:\Automated Coaster Milling\GUI\Automated Coaster Milling GUI\Automated Coaster Milling GUI\obj\Debug\Automated Coaster Milling GUI.exe
+H:\Automated Coaster Milling\GUI\Automated Coaster Milling GUI\Automated Coaster Milling GUI\obj\Debug\Automated Coaster Milling GUI.pdb
+H:\Automated Coaster Milling\GUI\Automated Coaster Milling GUI\Automated Coaster Milling GUI\bin\Debug\Automated Coaster Milling GUI.exe.config
+H:\Automated Coaster Milling\GUI\Automated Coaster Milling GUI\Automated Coaster Milling GUI\bin\Debug\Automated Coaster Milling GUI.exe
+H:\Automated Coaster Milling\GUI\Automated Coaster Milling GUI\Automated Coaster Milling GUI\bin\Debug\Automated Coaster Milling GUI.pdb
+H:\Automated Coaster Milling\GUI\Automated Coaster Milling GUI\Automated Coaster Milling GUI\obj\Debug\Automated Coaster Milling GUI.csprojResolveAssemblyReference.cache
